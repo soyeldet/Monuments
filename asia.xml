@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="monuments.xsl" type="text/xsl"?>
+
+<monuments-list>
+   <continent>Àsia</continent>
+   <url>asia</url>
+   <countries>
+      <country>
+         <name>Índia</name>
+         <monuments>
+            <monument>
+               <name>Taj Mahal</name>
+               <place>Agra</place>
+               <image>taj_mahal</image>
+               <url>Taj_Mahal</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>Xina</name>
+         <monuments>
+            <monument>
+               <name>Gran Muralla</name>
+               <place>Xina</place>
+               <image>gran_muralla</image>
+               <url>Gran_Muralla_xinesa</url>
+            </monument>
+            <monument>
+               <name>Temple del Cel</name>
+               <place>Beijing</place>
+               <image>temple_cel</image>
+               <url>Temple_del_Cel</url>
+            </monument>
+         </monuments>
+      </country>
+   </countries>
+</monuments-list>

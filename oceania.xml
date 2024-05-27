@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="monuments.xsl" type="text/xsl"?>
+
+<monuments-list>
+   <continent>Oceania</continent>
+   <url>oceania</url>
+   <countries>
+      <country>
+         <name>Austràlia</name>
+         <monuments>
+            <monument>
+               <name>Òpera</name>
+               <place>Sydney</place>
+               <image>opera_sydney</image>
+               <url>Òpera_de_Sydney</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>Xile</name>
+         <monuments>
+            <monument>
+               <name>Moais</name>
+               <place>Illa de Pàsqua</place>
+               <image>moais</image>
+               <url>Illa_de_Pasqua</url>
+            </monument>
+         </monuments>
+      </country>
+   </countries>
+</monuments-list>

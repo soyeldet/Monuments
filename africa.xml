@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="monuments.xsl" type="text/xsl"?>
+
+<monuments-list>
+   <continent>Àfrica</continent>
+   <url>africa.xml</url>
+   <countries>
+      <country>
+         <name>Egipte</name>
+         <monuments>
+            <monument>
+               <name>Temple de Ramsés II</name>
+               <place>Abu Simbel</place>
+               <image>abu_simbel</image>
+               <url>Abu_Simbel</url>
+            </monument>
+            <monument>
+               <name>Piràmides i Esfinx</name>
+               <place>Gizeh</place>
+               <image>gizeh</image>
+               <url>Necròpolis_de_Gizeh</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>Marroc</name>
+         <monuments>
+            <monument>
+               <name>Mesquita Kutubia</name>
+               <place>Marràqueix</place>
+               <image>kutubiyya</image>
+               <url>Mesquita_Kutubia</url>
+            </monument>
+         </monuments>
+      </country>
+   </countries>
+</monuments-list>

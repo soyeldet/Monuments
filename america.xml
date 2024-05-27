@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="monuments.xsl" type="text/xsl"?>
+
+<monuments-list>
+   <continent>Amèrica</continent>
+   <url>america</url>
+   <countries>
+      <country>
+         <name>Brasil</name>
+         <monuments>
+            <monument>
+               <name>Crist de Corcovado</name>
+               <place>Rio de Janeiro</place>
+               <image>corcovado</image>
+               <url>Crist_Redemptor_de_Rio_de_Janeiro</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>Estats Units</name>
+         <monuments>
+            <monument>
+               <name>Mount Rushmore</name>
+               <place>Keystone</place>
+               <image>mount_rushmore</image>
+               <url>Mont_Rushmore</url>
+            </monument>
+            <monument>
+               <name>Estàtua de la Llibertat</name>
+               <place>Nova York</place>
+               <image>liberty_statue</image>
+               <url>Estàtua_de_la_Llibertat</url>
+            </monument>
+            <monument>
+               <name>Golden Gate</name>
+               <place>San Francisco</place>
+               <image>golden_gate</image>
+               <url>Pont_Golden_Gate</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>Mèxic</name>
+         <monuments>
+            <monument>
+               <name>Pirámide de Kukulcán</name>
+               <place>Chichén Itzá</place>
+               <image>chichen_itza</image>
+               <url>Chichén-Itzá</url>
+            </monument>
+            <monument>
+               <name>Pirámide del Sol</name>
+               <place>Teotihuacán</place>
+               <image>teotihuacan</image>
+               <url>Teotihuacán</url>
+            </monument>
+         </monuments>
+      </country>
+   </countries>
+</monuments-list>

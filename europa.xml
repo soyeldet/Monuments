@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="monuments.xsl" type="text/xsl"?>
+
+<monuments-list>
+   <continent>Europa</continent>
+   <url>europa</url>
+   <countries>
+      <country>
+         <name>Alemanya</name>
+         <monuments>
+            <monument>
+               <name>Porta de Brandenburg</name>
+               <place>Berlín</place>
+               <image>brandenburg_tor</image>
+               <url>Porta_de_Brandenburg</url>
+            </monument>
+            <monument>
+               <name>Castell de Neuschwanstein</name>
+               <place>Schwangau</place>
+               <image>schloss_neuschwanstein</image>
+               <url>Castell_de_Neuschwanstein</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>Bèlgica</name>
+         <monuments>
+            <monument>
+               <name>Atomium</name>
+               <place>Brussel·les</place>
+               <image>atomium</image>
+               <url>Atomium</url>
+            </monument>      
+         </monuments>
+      </country>
+      <country>
+         <name>Espanya</name>
+         <monuments>
+            <monument>
+               <name>Park Güell</name>
+               <place>Barcelona</place>
+               <image>park_guell</image>
+               <url>Parc_Güell</url>
+            </monument>
+            <monument>
+               <name>Sagrada Família</name>
+               <place>Barcelona</place>
+               <image>sagrada_familia</image>
+               <url>Temple_Expiatori_de_la_Sagrada_Família</url>
+            </monument>
+            <monument>
+               <name>Catedral</name>
+               <place>Burgos</place>
+               <image>catedral_burgos</image>
+               <url>Catedral_de_Burgos</url>
+            </monument>
+            <monument>
+               <name>Mesquita</name>
+               <place>Còrdova</place>
+               <image>mezquita_cordoba</image>
+               <url>Mesquita_de_Còrdova</url>
+            </monument>
+            <monument>
+               <name>Torre d'Hèrcules</name>
+               <place>La Corunya</place>
+               <image>torre_hercules</image>
+               <url>Torre_d'Hèrcules</url>
+            </monument>
+            <monument>
+               <name>Alhambra</name>
+               <place>Granada</place>
+               <image>alhambra</image>
+               <url>Alhambra</url>
+            </monument>
+            <monument>
+               <name>Porta d'Alcalà</name>
+               <place>Madrid</place>
+               <image>puerta_alcala</image>
+               <url>Porta_d'Alcalá</url>
+            </monument>
+            <monument>
+               <name>Teatre Romà</name>
+               <place>Mérida</place>
+               <image>teatro_romano_merida</image>
+               <url>Teatre_romà_de_Mèrida</url>
+            </monument>
+            <monument>
+               <name>Universidad</name>
+               <place>Salamanca</place>
+               <image>universidad_salamanca</image>
+               <url>Universitat_de_Salamanca</url>
+            </monument>
+            <monument>
+               <name>Catedral</name>
+               <place>Santiago de Compostela</place>
+               <image>catedral_santiago</image>
+               <url>Catedral_de_Santiago_de_Compostel·la</url>
+            </monument>
+            <monument>
+               <name>Acueducto</name>
+               <place>Segòvia</place>
+               <image>acueducto_segovia</image>
+               <url>Aqüeducte_de_Segòvia</url>
+            </monument>
+            <monument>
+               <name>Giralda</name>
+               <place>Sevilla</place>
+               <image>giralda</image>
+               <url>Giralda</url>
+            </monument>
+            <monument>
+               <name>Torre de l'Or</name>
+               <place>Sevilla</place>
+               <image>torre_oro</image>
+               <url>Torre_de_l'Or</url>
+            </monument>
+            <monument>
+               <name>Amfiteatre</name>
+               <place>Tarragona</place>
+               <image>amfiteatre_tarragona</image>
+               <url>Amfiteatre_de_Tarragona</url>
+            </monument>
+            <monument>
+               <name>Església de Sant Climent</name>
+               <place>Taüll</place>
+               <image>sant_climent</image>
+               <url>Església_de_Sant_Climent_de_Taüll</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>França</name>
+         <monuments>
+            <monument>
+               <name>Arc de Triomf</name>
+               <place>París</place>
+               <image>arc_triomphe_paris</image>
+               <url>Arc_de_Triomf_de_l%27Étoile</url>
+            </monument>
+            <monument>
+               <name>Nôtre-Dame</name>
+               <place>París</place>
+               <image>notre_dame</image>
+               <url>Notre-Dame_de_París</url>
+            </monument>
+            <monument>
+               <name>Musée du Louvre</name>
+               <place>París</place>
+               <image>musee_louvre</image>
+               <url>Louvre</url>
+            </monument>
+            <monument>
+               <name>Òpera</name>
+               <place>París</place>
+               <image>opera_paris</image>
+               <url>Òpera_Garnier</url>
+            </monument>
+            <monument>
+               <name>Sagrat Cor</name>
+               <place>París</place>
+               <image>sacre_coeur</image>
+               <url>Sacré_Cœur</url>
+            </monument>
+            <monument>
+               <name>Torre Éiffel</name>
+               <place>París</place>
+               <image>tour_eiffel</image>
+               <url>Torre_Eiffel</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>Grècia</name>
+         <monuments>
+            <monument>
+               <name>Erectèon</name>
+               <place>Atenes</place>
+               <image>erecteion</image>
+               <url>Erectèon</url>
+            </monument>
+            <monument>
+               <name>Partenó</name>
+               <place>Atenes</place>
+               <image>partenon</image>
+               <url>Partenó</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>Itàlia</name>
+         <monuments>
+            <monument>
+               <name>Duomo</name>
+               <place>Florència</place>
+               <image>duomo_firenze</image>
+               <url>Santa_Maria_del_Fiore</url>
+            </monument>
+            <monument>
+               <name>Duomo</name>
+               <place>Milà</place>
+               <image>duomo_milano</image>
+               <url>Catedral_de_Milà</url>
+            </monument>
+            <monument>
+               <name>Duomo i Campanile</name>
+               <place>Pisa</place>
+               <image>torre_pisa</image>
+               <url>Catedral_de_Pisa</url>
+            </monument>
+            <monument>
+               <name>Coliseu</name>
+               <place>Roma</place>
+               <image>colosseo</image>
+               <url>Coliseu</url>
+            </monument>
+            <monument>
+               <name>Fontana de Trevi</name>
+               <place>Roma</place>
+               <image>fontana_trevi</image>
+               <url>Fontana_di_Trevi</url>
+            </monument>
+            <monument>
+               <name>Fòrum romà</name>
+               <place>Roma</place>
+               <image>foro_romano</image>
+               <url>Fòrum_Romà</url>
+            </monument>
+            <monument>
+               <name>Panteó</name>
+               <place>Roma</place>
+               <image>panteo_roma</image>
+               <url>Panteó_de_Roma</url>
+            </monument>
+            <monument>
+               <name>Basílica de Sant Pere</name>
+               <place>Roma</place>
+               <image>sant_pietro</image>
+               <url>Basílica_de_Sant_Pere</url>
+            </monument>
+            <monument>
+               <name>Catedral de San Marco</name>
+               <place>Venècia</place>
+               <image>san_marco</image>
+               <url>Basílica_de_Sant_Marc</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>Hongria</name>
+         <monuments>
+            <monument>
+               <name>Parlament</name>
+               <place>Budapest</place>
+               <image>parlament_budapest</image>
+               <url>Palau_del_Parlament_d'Hongria</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>Portugal</name>
+         <monuments>
+            <monument>
+               <name>Torre de Belém</name>
+               <place>Lisboa</place>
+               <image>torre_belem</image>
+               <url>Torre_de_Belém</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>Regne Unit</name>
+         <monuments>
+            <monument>
+               <name>Big Ben</name>
+               <place>Londres</place>
+               <image>big_Ben</image>
+               <url>Big_Ben</url>
+            </monument>
+            <monument>
+               <name>Cròmlec de Stonehenge</name>
+               <place>Amesbury</place>
+               <image>stonehenge</image>
+               <url>Stonehenge</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>Rússia</name>
+         <monuments>
+            <monument>
+               <name>Catedral de Sant Basili</name>
+               <place>Moscou</place>
+               <image>sant_basili</image>
+               <url>Catedral_de_Sant_Basili</url>
+            </monument>
+         </monuments>
+      </country>
+      <country>
+         <name>Turquia</name>
+         <monuments>
+            <monument>
+               <name>Santa Sofia</name>
+               <place>Estambul</place>
+               <image>santa_sofia</image>
+               <url>Catedral_de_Santa_Sofia</url>
+            </monument>
+         </monuments>
+      </country>
+   </countries>
+</monuments-list>
